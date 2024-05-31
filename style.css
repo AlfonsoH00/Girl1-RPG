@@ -1,0 +1,14 @@
+.image {
+    background-image: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/01/30-jrpgs-on-steam-with-the-best-combat-system-ranked.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.caption {
+    color: black;
+    background-color:gray;
+    opacity: .80;
+    width: fit-content;
+    font-size: large;
+}
